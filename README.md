@@ -5,6 +5,7 @@ This project provides RESTful APIs for handling employee data — perfect for te
 
 
 
+
 🚀 Features
 
 *  Create, read, update, and delete (CRUD) employee records
@@ -21,13 +22,14 @@ This project provides RESTful APIs for handling employee data — perfect for te
 
 
 
-🛠️ Tech Stack
 
-Technology	                            Purpose
-  Java	                        Programming language
-  Spring Boot	                  Application framework
-  Spring Data JPA	              Database ORM and persistence
-  Hibernate	                    Object-relational mapping
-  PostgreSQL	                  Database
-  Maven/Gradle                 	Dependency management
-  Postman                       API testing
+
+🛠️ Tech Stack
+	                            
+  Java,                         
+  Spring Boot, 	                   
+  Spring Data JPA,                 
+  Hibernate, 	                    
+  PostgreSQL, 	                  
+  Maven/Gradle,                  	 
+  Postman .                       
